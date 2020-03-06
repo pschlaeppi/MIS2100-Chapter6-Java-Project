@@ -22,5 +22,5 @@ public class SimpleMath {
 		
 		return result; }
 		
-	}}
+	}
 
